@@ -15,3 +15,5 @@
  * algoritm.drawio.png
  * readme.md
  * Program.cs
+
+В блок-схеме находится только основная часть метода.
